@@ -19,8 +19,4 @@ This project is a simple web scraping project that scrapes the premier league ta
 ## Author
 [Harsh Singh](harshsingh220603@gmail.com)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-```
-
 
